@@ -1,0 +1,34 @@
+.sidebar {
+    width: 15vw;
+    flex-shrink: 0;
+    padding: 10px 5px;
+    background-color: #0a0a0a;
+
+}
+
+.sidebar .menu-group {
+    padding: 17px 26px;
+    color: white;
+}
+
+.sidebar .menu-group-label {
+    text-transform: uppercase;
+    font-weight: 700;
+    margin: 10px 0;
+}
+
+.sidebar .menu-group .menu-item {
+    padding:  20px 0;
+}
+.sidebar .menu-group .menu-item:hover {
+    padding:  20px 0;
+    cursor: pointer;
+}
+
+.sidebar .menu-group .menu-item i {
+    width: 30px;
+}
+
+.mainview{
+    margin-top: 10vw;
+}
