@@ -4,6 +4,9 @@ const Header = () => {
     return (
         <div className="header">
             <div className="header-left">
+         
+                    <i className="fas fa-bars"></i>
+         
                 <img className="logo" src="https://logos.textgiraffe.com/logos/logo-name/Lolly-designstyle-pastel-m.png" alt='https://logos.textgiraffe.com/logos/logo-name/Lolly-designstyle-pastel-m.png' />
             </div>
             <div className="header-center">

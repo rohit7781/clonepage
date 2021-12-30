@@ -55,3 +55,10 @@ body {
 .fas{
 	cursor: pointer;
 }
+
+@media (max-width :1440px	) {
+	.sidebar{
+		transform: translate(-500px , 0px);
+		position: absolute;
+	}
+}
