@@ -56,7 +56,7 @@ body {
 	cursor: pointer;
 }
 
-@media (max-width :1440px	) {
+@media (max-width :1440px) {
 	.sidebar{
 		transform: translate(-500px , 0px);
 		position: absolute;
