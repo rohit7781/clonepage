@@ -8,7 +8,7 @@
 }
 
 .sidebar .menu-group {
-    padding: 17px 26px;
+    padding: 0px 26px;
     color: white;
 }
 
@@ -30,6 +30,3 @@
     width: 30px;
 }
 
-.mainview{
-    margin-top: 10vw;
-}

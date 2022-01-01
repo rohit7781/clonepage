@@ -8,6 +8,7 @@ const HomeContent = () => {
     const wid1 = 140;
     const recommendedVideos = [
         {
+            key:'1',
             thumbnail: `https://picsum.photos/id/${Math.floor(Math.random() * 100)}/${len}/${wid}`,
             title: "Bitcoin at ATH ",
             length: 'Bitboy',
@@ -20,6 +21,7 @@ const HomeContent = () => {
             uploadedAt: "2020-12-01"
         },
         {
+            key:'12',
             thumbnail: `https://picsum.photos/id/${Math.floor(Math.random() * 100)}/${len}/${wid}`,
             title: "Top Social Metavese",
             length: 'Sad Gril Indunium',
@@ -32,6 +34,7 @@ const HomeContent = () => {
             uploadedAt: "2020-02-01"
         },
         {
+            key:'11',
             thumbnail: `https://picsum.photos/id/${Math.floor(Math.random() * 100)}/${len}/${wid}`,
             title: "Ariana Grande ",
             length: 'Tech with me',
@@ -47,6 +50,7 @@ const HomeContent = () => {
 
     const channelVideos = [
         {
+            key:'14',
             thumbnail: `https://picsum.photos/id/${Math.floor(Math.random() * 100)}/${len1}/${wid1}`,
             title: "Top Upcoming Artist",
             length: 'Malfia Astralia',
@@ -59,6 +63,7 @@ const HomeContent = () => {
             uploadedAt: "2020-12-01"
         },
         {
+            key:'15',
             thumbnail: `https://picsum.photos/id/${Math.floor(Math.random() * 100)}/${len1}/${wid1}`,
             title: "Top Crypto Grapics Designer Today",
             length: 'Crypto Expert',
@@ -71,6 +76,7 @@ const HomeContent = () => {
             uploadedAt: "2020-02-01"
         },
         {
+            key:'16',
             thumbnail: `https://picsum.photos/id/${Math.floor(Math.random() * 100)}/${len1}/${wid1}`,
             title: "Best Character all the time",
             length: 'Awkard Gyps',
@@ -83,6 +89,7 @@ const HomeContent = () => {
             uploadedAt: "2020-02-01"
         },
         {
+            key:'17',
             thumbnail: `https://picsum.photos/id/${Math.floor(Math.random() * 100)}/${len1}/${wid1}`,
             title: "Top Upcoming Phones",
             length: 'TechBurner',
